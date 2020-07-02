@@ -1,5 +1,5 @@
 # -Panda-Data-Challenge---PyCitySchools
-![Education](Images/education.png)
+alt![Education](Images/education.png)
 
 You've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
 
@@ -78,3 +78,8 @@ As final considerations:
 
 * Use the pandas library and Jupyter Notebook.
 * You must include a written description of at least two observable trends based on the data.
+
+
+### Copyright
+Trilogy Education Services © 2019. All Rights Reserved.
+
