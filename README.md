@@ -78,6 +78,8 @@ As final considerations:
 * Use the pandas library and Jupyter Notebook.
 * You must include a written description of at least two observable trends based on the data.
 
+![alt test](https://github.com/jeffhoffmanmba/Panda-Data-Challenge-PyCitySchools/blob/master/Image/education.png)
+
 
 ### Copyright
 Trilogy Education Services © 2019. All Rights Reserved.
